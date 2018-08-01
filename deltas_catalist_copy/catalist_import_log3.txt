@@ -1,8 +1,8 @@
 Row Count       Source File Name
       10230 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ActivistCodes_073118.txt
-          5 /var/lib/rundeck/scripts/tmp/FOFVANFiles/Committees_073118.txt
+          6 /var/lib/rundeck/scripts/tmp/FOFVANFiles/Committees_073118.txt
      432082 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsActivistCodes_VF_073118.txt
-    8585837 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsContacts_VF_073118.txt
+    8589837 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsContacts_VF_073118.txt
     3537002 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsSurveyResponses_VF_073118.txt
           1 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ActionTypes_073118.txt
         190 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ActivistCodes_073118.txt
@@ -13,7 +13,7 @@ Row Count       Source File Name
           2 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_Committees_073118.txt
         251 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_CommitteesSurveyQuestions_073118.txt
       47090 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ContactsActivistCodes_MyC_073118.txt
-     116368 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ContactsContacts_MyC_073118.txt
+     117368 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ContactsContacts_MyC_073118.txt
      121429 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_Contacts_MyC_073118.txt
        1960 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ContactsNotes_MyC_073118.txt
      137667 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ContactsNotes_VF_073118.txt

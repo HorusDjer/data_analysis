@@ -2,7 +2,7 @@ Row Count       Source File Name
       10230 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ActivistCodes_073118.txt
           5 /var/lib/rundeck/scripts/tmp/FOFVANFiles/Committees_073118.txt
      432082 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsActivistCodes_VF_073118.txt
-    8585837 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsContacts_VF_073118.txt
+    8586837 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsContacts_VF_073118.txt
     3537002 /var/lib/rundeck/scripts/tmp/FOFVANFiles/ContactsSurveyResponses_VF_073118.txt
           1 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ActionTypes_073118.txt
         190 /var/lib/rundeck/scripts/tmp/FOFVANFiles/FOF_ActivistCodes_073118.txt
