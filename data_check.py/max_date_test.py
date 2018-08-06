@@ -1,10 +1,13 @@
 from datetime import datetime
 
+# add automatic file change functionality
 # note: file name reflects date modified
 todays_date = datetime.now().strftime('%m%d%y')
-
 file_path = '/data/vansync/ContactsContacts_VF_{}{}'.format(
     todays_date, '.txt')
+# file_path = '/data/vansync/ContactsContacts_VF_080518.txt'
+file_path = "/Users/ejikeobineme/Documents/data_analysis/data_check.py/contacts_contact.txt"
+
 
 with open(file_path, "r") as file_object:
     contents = file_object.readlines()
